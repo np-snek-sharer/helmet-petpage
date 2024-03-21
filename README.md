@@ -17,7 +17,7 @@ description: senior_froggy loves to eat flies
 </span>
 ```
 # adding a section
-there are three things you need to update when adding a new section
+there are two things you need to update when adding a new section
 1. the nav section: add `<a href="#ANCHORNAME">SECTION NAME</a>` and update the anchor name and section name
 ```
 <div class="nav" style="position: fixed;">
